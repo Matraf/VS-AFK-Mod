@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#_Project\\AfkMod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E82D1986-8FDA-41C6-9852-91E70D99C6E4}|AfkMod\\AfkMod\\AfkMod.csproj|e:\\c#_project\\afkmod\\afkmod\\afkmod\\afkdetectormodsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E82D1986-8FDA-41C6-9852-91E70D99C6E4}|AfkMod\\AfkMod\\AfkMod.csproj|solutionrelative:afkmod\\afkmod\\afkdetectormodsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E82D1986-8FDA-41C6-9852-91E70D99C6E4}|AfkMod\\AfkMod\\AfkMod.csproj|e:\\c#_project\\afkmod\\afkmod\\afkmod\\modinfo.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E82D1986-8FDA-41C6-9852-91E70D99C6E4}|AfkMod\\AfkMod\\AfkMod.csproj|solutionrelative:afkmod\\afkmod\\modinfo.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "modinfo.json",
+              "DocumentMoniker": "E:\\C#_Project\\AfkMod\\AfkMod\\AfkMod\\modinfo.json",
+              "RelativeDocumentMoniker": "AfkMod\\AfkMod\\modinfo.json",
+              "ToolTip": "E:\\C#_Project\\AfkMod\\AfkMod\\AfkMod\\modinfo.json",
+              "RelativeToolTip": "AfkMod\\AfkMod\\modinfo.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-15T20:17:42.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AfkDetectorModSystem.cs",
+              "DocumentMoniker": "E:\\C#_Project\\AfkMod\\AfkMod\\AfkMod\\AfkDetectorModSystem.cs",
+              "RelativeDocumentMoniker": "AfkMod\\AfkMod\\AfkDetectorModSystem.cs",
+              "ToolTip": "E:\\C#_Project\\AfkMod\\AfkMod\\AfkMod\\AfkDetectorModSystem.cs",
+              "RelativeToolTip": "AfkMod\\AfkMod\\AfkDetectorModSystem.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwGkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T20:17:04.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

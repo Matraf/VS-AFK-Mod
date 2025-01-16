@@ -1,0 +1,13 @@
+{
+    "type": "code",
+    "modid": "afkdetectormod_0_0_2",
+    "name": "AFK Detector Mod",
+    "authors": [
+        "Matraf"
+    ],
+    "description": "Kick players for AFK",
+    "version": "0.0.2",
+    "dependencies": {
+        "game": ""
+    }
+}
